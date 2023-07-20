@@ -5,7 +5,7 @@ You will implement a neuron with a set of inputs and weights associated with the
 
 You will learn to:
 
-  Initializing parameters
-  Calculating the cost function and its gradient
-  Using an optimization algorithm (gradient descent)
+  Initializing parameters,
+  Calculating the cost function and its gradient,
+  Using an optimization algorithm (gradient descent),
   Gather all three functions above into a main model function.
